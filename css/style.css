@@ -6,6 +6,12 @@ u{
     font-weight: bold;
 }
 
+.price-down {
+    color: red;
+    font-weight: bold;
+    text-align: center;
+}
+
 .thumbnail {
     padding-top: 10px;
     margin-bottom: 0;
